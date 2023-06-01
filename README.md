@@ -70,6 +70,7 @@ while (l):
 
 
 OUTPUT :
+
 ![CN REC 10](https://github.com/rajalakshmi8248/EX-10/assets/122860827/39aa50f5-3c1b-4343-840a-7a20d6ebb34f)
 
 
